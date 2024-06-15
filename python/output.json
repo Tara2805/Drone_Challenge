@@ -1,0 +1,9 @@
+{
+    "ExtractedData1": "value1",
+    "ExtractedData2": 42,
+    "ExtractedData3": 41,
+    "ExtractedData4": [
+        "item1",
+        "item2"
+    ]
+}

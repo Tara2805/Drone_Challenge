@@ -1,0 +1,9 @@
+Non-decodable binary data: 4249f4ecbf000080bf00004c42e5d08a400000
+Non-decodable binary data: 484300ffaaffaaffaaff
+Non-decodable binary data: aaffaaffaaffaaffaaff
+Non-decodable binary data: bbffbb
+Non-decodable binary data: ffbbffbbe6
+_
+Non-decodable binary data: 4c42b1da
+Non-decodable binary data: e6bfd2000000950f0000a470
+Non-decodable binary data: 59410000803f323032332d31
